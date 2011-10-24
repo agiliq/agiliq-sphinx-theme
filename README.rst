@@ -13,5 +13,10 @@ INSTALL
 
     html_theme = "agiliq"
 
+CONTRIBUTORS
+------------
+
+* Saikiran
+
 .. _Sphinx: http://sphinx.pocoo.org/
 .. _agiliq: http://agiliq.com/
